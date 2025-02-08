@@ -55,16 +55,7 @@
 
 - **Ek Fonksiyonlar:**  
   Tema üzerinde ek özellikler veya modüller eklemek isterseniz, WHMCS’nin modül yapısını kullanarak genişletme yapabilirsiniz.
-
 ---
-
-## Destek ve Geri Bildirim
-
-Tema ile ilgili sorun yaşamanız veya geliştirme önerileriniz olması durumunda, GitHub üzerindeki [Issue](https://github.com/kullaniciadi/proje-adi/issues) bölümünden bize ulaşabilirsiniz. Aldığımız geri bildirimler, temayı daha iyi hale getirmemiz için büyük önem taşımaktadır.
-
----
-
-PreHost WHMC Teması ile web hosting yönetim süreçlerinizi kolaylaştırın ve müşteri deneyimini üst düzeye çıkarın. İyi kullanımlar!
 
 ## Görüntü 
 ![Alternatif Metin](whmcs.png "marthex.dev")
