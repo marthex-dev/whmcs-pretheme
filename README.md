@@ -1,8 +1,8 @@
-# PreHost WHMC Teması
+## PreHost WHMC Teması
 
 **PreHost WHMC Teması**, WHMCS için özel olarak geliştirilmiş, modern ve kullanıcı dostu bir temadır. Tema, tamamen Türkçe dil desteği ile hazırlanmış olup, web hosting yönetim süreçlerinizi daha profesyonel bir hale getirmeyi hedeflemektedir.
+Daha fazlasını görmek için internet sitemi ( https://marthex.dev/ ) ziyaret etmeyi unutma.
 
-**Daha fazlasını görmek için internet sitemi ( https://marthex.dev/ ) ziyaret etmeyi unutma.**
 ---
 
 ## Özellikler
