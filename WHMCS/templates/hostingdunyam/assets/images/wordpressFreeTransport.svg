@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="611" viewBox="0 0 592 611">
+  <defs>
+    <filter id="Rectangle_1059" x="0" y="149" width="299" height="314" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1059-2" x="292" y="0" width="299" height="314" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1059-3" x="292" y="297" width="299" height="314" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="wordpressFreeTransport" transform="translate(-951 -7388)">
+    <path id="Combined-Shape-Copy-9" d="M4,164v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,180v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,196v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,212v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,228v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,244v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,260v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,276v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,292v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2ZM4,308v2H2v-2H0v-2H2v-2H4v2H6v2Zm16,0v2H18v-2H16v-2h2v-2h2v2h2v2Zm16,0v2H34v-2H32v-2h2v-2h2v2h2v2Zm16,0v2H50v-2H48v-2h2v-2h2v2h2v2Zm16,0v2H66v-2H64v-2h2v-2h2v2h2v2Zm16,0v2H82v-2H80v-2h2v-2h2v2h2v2Zm16,0v2H98v-2H96v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm16,0v2h-2v-2h-2v-2h2v-2h2v2h2v2Z" transform="translate(1393 7449)" fill="#186ff2" fill-rule="evenodd" opacity="0.35"/>
+    <rect id="Rectangle_1066" data-name="Rectangle 1066" width="64" height="64" rx="8" transform="translate(1191 7782)" fill="#3aa1ff"/>
+    <g id="Group_2518" data-name="Group 2518" transform="translate(18 9)">
+      <g transform="matrix(1, 0, 0, 1, 933, 7379)" filter="url(#Rectangle_1059)">
+        <rect id="Rectangle_1059-4" data-name="Rectangle 1059" width="245" height="260" rx="8" transform="translate(27 166)" fill="#fff"/>
+      </g>
+      <g id="Group_2517" data-name="Group 2517">
+        <circle id="Ellipse_67" data-name="Ellipse 67" cx="27" cy="27" r="27" transform="translate(990 7575)" fill="#186ff2" opacity="0.1"/>
+        <text id="Zamandan_tasarruf_edin_" data-name="Zamandan
+tasarruf
+edin!" transform="translate(994 7668)" fill="#105285" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Zamandan</tspan><tspan x="0" y="26">tasarruf</tspan><tspan x="0" y="52">edin!</tspan></text>
+        <g id="Layer_2" data-name="Layer 2" transform="translate(1001 7586)">
+          <g id="clock">
+            <rect id="Rectangle_1060" data-name="Rectangle 1060" width="32" height="32" transform="translate(32 32) rotate(180)" fill="#186ff2" opacity="0"/>
+            <path id="Path_2047" data-name="Path 2047" d="M15.145,2A13.145,13.145,0,1,0,28.289,15.145,13.145,13.145,0,0,0,15.145,2Zm0,23.66A10.516,10.516,0,1,1,25.66,15.145,10.516,10.516,0,0,1,15.145,25.66Z" transform="translate(0.629 0.629)" fill="#186ff2"/>
+            <path id="Path_2048" data-name="Path 2048" d="M17.572,12.258H13.629V8.314a1.314,1.314,0,0,0-2.629,0v5.258a1.314,1.314,0,0,0,1.314,1.314h5.258a1.314,1.314,0,0,0,0-2.629Z" transform="translate(3.459 2.201)" fill="#186ff2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2521" data-name="Group 2521">
+      <g id="Group_2519" data-name="Group 2519" transform="translate(310 -140)">
+        <g transform="matrix(1, 0, 0, 1, 641, 7528)" filter="url(#Rectangle_1059-2)">
+          <rect id="Rectangle_1059-5" data-name="Rectangle 1059" width="245" height="260" rx="8" transform="translate(319 17)" fill="#fff"/>
+        </g>
+        <g id="Group_2517-2" data-name="Group 2517">
+          <circle id="Ellipse_67-2" data-name="Ellipse 67" cx="27" cy="27" r="27" transform="translate(990 7575)" fill="#186ff2" opacity="0.1"/>
+          <text id="DNS_tanımlamalarını_biz_yapıyoruz_" data-name="DNS
+tanımlamalarını
+biz yapıyoruz!" transform="translate(994 7668)" fill="#105285" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">DNS</tspan><tspan x="0" y="26">tanımlamalarını</tspan><tspan x="0" y="52">biz yapıyoruz!</tspan></text>
+          <g id="Layer_2-2" data-name="Layer 2" transform="translate(1001 7585.522)">
+            <g id="globe-2">
+              <rect id="Rectangle_1062" data-name="Rectangle 1062" width="32" height="32" transform="translate(0 0.477)" fill="#1185ff" opacity="0"/>
+              <rect id="Rectangle_1063" data-name="Rectangle 1063" width="32" height="32" transform="translate(0 0.477)" fill="#1185ff" opacity="0"/>
+              <path id="Path_2052" data-name="Path 2052" d="M15.532,2A13.532,13.532,0,1,0,29.064,15.532,13.532,13.532,0,0,0,15.532,2Zm0,2.706a11.083,11.083,0,0,1,2.422.284A3.532,3.532,0,0,1,16.9,6.344c-.3.23-.622.419-.947.622a6.171,6.171,0,0,0-2.5,2.26,8.782,8.782,0,0,0-.839,4.466c0,1.84,0,2.923-1.286,3.884-1.854,1.448-4.682.636-6.441-.095a11.272,11.272,0,0,1-.176-1.949A10.826,10.826,0,0,1,15.532,4.706ZM6.06,20.674a11.394,11.394,0,0,0,2.706.365,6.766,6.766,0,0,0,4.249-1.353c2.314-1.813,2.314-4.141,2.314-6.008a6.441,6.441,0,0,1,.5-3.167A3.87,3.87,0,0,1,17.346,9.28a13.194,13.194,0,0,0,1.245-.825,6.157,6.157,0,0,0,1.895-2.531A10.826,10.826,0,0,1,25,10.282c-1.935.271-4.682.907-5.223,3.424a9.473,9.473,0,0,0-.189,1.827,3.965,3.965,0,0,1-.392,1.989l-.135.23c-.88,1.461-1.867,3.126-.528,5.413.162.284.338.555.514.825a3.1,3.1,0,0,1,.7,1.461,10.677,10.677,0,0,1-4.222.907A10.826,10.826,0,0,1,6.06,20.674ZM22.2,24.085a9.188,9.188,0,0,0-.853-1.543c-.149-.217-.3-.433-.433-.663-.528-.92-.338-1.353.514-2.706l.135-.23a6.455,6.455,0,0,0,.731-3.288A7.334,7.334,0,0,1,22.42,14.3c.217-.988,2.314-1.258,3.613-1.353a10.745,10.745,0,0,1-3.87,11.2Z" transform="translate(0.706 0.706)" fill="#1185ff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2520" data-name="Group 2520" transform="translate(310 157)">
+        <g transform="matrix(1, 0, 0, 1, 641, 7231)" filter="url(#Rectangle_1059-3)">
+          <rect id="Rectangle_1059-6" data-name="Rectangle 1059" width="245" height="260" rx="8" transform="translate(319 314)" fill="#fff"/>
+        </g>
+        <g id="Group_2517-3" data-name="Group 2517">
+          <circle id="Ellipse_67-3" data-name="Ellipse 67" cx="27" cy="27" r="27" transform="translate(990 7575)" fill="#186ff2" opacity="0.1"/>
+          <text id="Hesaplarınızın_tekrar_açılmasını_biz_yapıyoruz_" data-name="Hesaplarınızın
+tekrar açılmasını
+biz yapıyoruz!" transform="translate(994 7668)" fill="#105285" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Hesaplarınızın</tspan><tspan x="0" y="26">tekrar açılmasını</tspan><tspan x="0" y="52">biz yapıyoruz!</tspan></text>
+          <g id="Layer_2-3" data-name="Layer 2" transform="translate(1001 7586)">
+            <g id="person-done">
+              <rect id="Rectangle_1061" data-name="Rectangle 1061" width="32" height="32" fill="#1185ff" opacity="0"/>
+              <path id="Path_2049" data-name="Path 2049" d="M23.438,4.328a1.314,1.314,0,0,0-1.853.118L19.128,7.272,18.3,6.339a1.317,1.317,0,0,0-1.971,1.748l1.827,2.05a1.309,1.309,0,0,0,1.958-.013l3.43-3.942a1.314,1.314,0,0,0-.105-1.853Z" transform="translate(5.024 1.257)" fill="#1185ff"/>
+              <path id="Path_2050" data-name="Path 2050" d="M11.256,13.513A5.256,5.256,0,1,0,6,8.256,5.256,5.256,0,0,0,11.256,13.513Zm0-7.884A2.628,2.628,0,1,1,8.628,8.256,2.628,2.628,0,0,1,11.256,5.628Z" transform="translate(1.884 0.942)" fill="#1185ff"/>
+              <path id="Path_2051" data-name="Path 2051" d="M12.2,13A9.2,9.2,0,0,0,3,22.2a1.314,1.314,0,0,0,2.628,0,6.57,6.57,0,0,1,13.141,0,1.314,1.314,0,1,0,2.628,0A9.2,9.2,0,0,0,12.2,13Z" transform="translate(0.942 4.083)" fill="#1185ff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2523" data-name="Group 2523" transform="translate(31 7)">
+      <rect id="Rectangle_1064" data-name="Rectangle 1064" width="211" height="64" rx="8" transform="translate(976 7435)" fill="#3aa1ff" opacity="0.15"/>
+      <g id="Group_2522" data-name="Group 2522" transform="translate(-10)">
+        <text id="Zaman_Kaybı_Yok" data-name="Zaman Kaybı Yok" transform="translate(1038 7473)" fill="#3aa1ff" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Zaman Kaybı Yok</tspan></text>
+        <g id="Layer_2-4" data-name="Layer 2" transform="translate(1006 7455)">
+          <g id="checkmark-circle">
+            <rect id="Rectangle_1065" data-name="Rectangle 1065" width="24" height="24" fill="#3aa1ff" opacity="0"/>
+            <path id="Path_2053" data-name="Path 2053" d="M9.71,11.29a1,1,0,0,0-1.42,1.42l3,3a.97.97,0,0,0,1.43-.05l7-8a1,1,0,0,0-1.5-1.32L12,13.54Z" fill="#3aa1ff"/>
+            <path id="Path_2054" data-name="Path 2054" d="M21,11a1,1,0,0,0-1,1,8,8,0,1,1-8-8,8.79,8.79,0,0,1,1.9.22,1,1,0,1,0,.47-1.94A10.54,10.54,0,0,0,12,2,10,10,0,1,0,22,12a1,1,0,0,0-1-1Z" fill="#3aa1ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2524" data-name="Group 2524" transform="translate(-16 427)">
+      <rect id="Rectangle_1064-2" data-name="Rectangle 1064" width="200" height="64" rx="8" transform="translate(976 7435)" fill="#3aa1ff" opacity="0.15"/>
+      <g id="Group_2522-2" data-name="Group 2522" transform="translate(-10)">
+        <text id="Uyumsuzluk_Yok" data-name="Uyumsuzluk Yok" transform="translate(1038 7473)" fill="#3aa1ff" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Uyumsuzluk Yok</tspan></text>
+        <g id="Layer_2-5" data-name="Layer 2" transform="translate(1006 7455)">
+          <g id="checkmark-circle-2" data-name="checkmark-circle">
+            <rect id="Rectangle_1065-2" data-name="Rectangle 1065" width="24" height="24" fill="#3aa1ff" opacity="0"/>
+            <path id="Path_2053-2" data-name="Path 2053" d="M9.71,11.29a1,1,0,0,0-1.42,1.42l3,3a.97.97,0,0,0,1.43-.05l7-8a1,1,0,0,0-1.5-1.32L12,13.54Z" fill="#3aa1ff"/>
+            <path id="Path_2054-2" data-name="Path 2054" d="M21,11a1,1,0,0,0-1,1,8,8,0,1,1-8-8,8.79,8.79,0,0,1,1.9.22,1,1,0,1,0,.47-1.94A10.54,10.54,0,0,0,12,2,10,10,0,1,0,22,12a1,1,0,0,0-1-1Z" fill="#3aa1ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1056" data-name="Rectangle 1056" width="50" height="50" transform="translate(923 5919)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="magento" transform="translate(-923 -5919)" clip-path="url(#clip-path)">
+    <path id="magento-2" data-name="magento" d="M25,50l-9.281-5.358v-25l6.188-3.573v25L25,42.95l3.094-1.879v-25l6.19,3.573v25ZM46.648,12.5v25l-6.185,3.571v-25L25,7.146,9.529,16.069v25L3.352,37.5v-25L25,0,46.648,12.5Z" transform="translate(923 5919)" fill="#fff"/>
+  </g>
+</svg>

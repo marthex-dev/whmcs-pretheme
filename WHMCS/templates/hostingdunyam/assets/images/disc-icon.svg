@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1016" data-name="Rectangle 1016" width="32" height="32" transform="translate(385 3192)" fill="#186ff2"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(-385 -3192)" clip-path="url(#clip-path)">
+    <g id="hard-drive" transform="translate(385 3192)">
+      <g id="Group_2291" data-name="Group 2291">
+        <g id="Group_2290" data-name="Group 2290">
+          <path id="Path_1981" data-name="Path 1981" d="M31.842,18.772c-.006-.013-5.191-13.728-5.21-13.76a2.657,2.657,0,0,0-2.363-1.43H7.737a2.657,2.657,0,0,0-2.363,1.43C5.355,5.044.164,18.76.164,18.772A2.723,2.723,0,0,0,0,19.679v6.074a2.67,2.67,0,0,0,2.665,2.665H29.334A2.67,2.67,0,0,0,32,25.753V19.679A2.413,2.413,0,0,0,31.842,18.772ZM4.335,12.755H6.911a.888.888,0,0,0,0-1.777h-1.9L5.683,9.2h3.9a.888.888,0,1,0,0-1.777H6.357l.611-1.625a.881.881,0,0,1,.769-.435H24.275a.888.888,0,0,1,.769.441l4.24,11.215H2.728ZM29.341,26.641H2.665a.887.887,0,0,1-.888-.888V19.679a.887.887,0,0,1,.888-.888H29.334a.887.887,0,0,1,.888.888v6.074h.006A.887.887,0,0,1,29.341,26.641Z" fill="#186ff2"/>
+        </g>
+      </g>
+      <g id="Group_2293" data-name="Group 2293">
+        <g id="Group_2292" data-name="Group 2292">
+          <path id="Path_1982" data-name="Path 1982" d="M17.452,21.828H4.24a.888.888,0,0,0,0,1.777H17.452a.888.888,0,0,0,0-1.777Z" fill="#186ff2"/>
+        </g>
+      </g>
+      <g id="Group_2295" data-name="Group 2295">
+        <g id="Group_2294" data-name="Group 2294">
+          <path id="Path_1983" data-name="Path 1983" d="M27.766,21.828H26.4a.888.888,0,1,0,0,1.777h1.361a.888.888,0,1,0,0-1.777Z" fill="#186ff2"/>
+        </g>
+      </g>
+      <g id="Group_2297" data-name="Group 2297">
+        <g id="Group_2296" data-name="Group 2296">
+          <path id="Path_1984" data-name="Path 1984" d="M22.429,21.828H21.068a.888.888,0,0,0,0,1.777h1.361a.888.888,0,1,0,0-1.777Z" fill="#186ff2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

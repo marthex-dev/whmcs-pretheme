@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1056" data-name="Rectangle 1056" width="50" height="50" transform="translate(923 5919)" fill="#105285"/>
+    </clipPath>
+  </defs>
+  <g id="drupal" transform="translate(-923 -5919)" clip-path="url(#clip-path)">
+    <path id="drupal-2" data-name="drupal" d="M42.625,7.4A24.146,24.146,0,0,0,25.013.013a25.143,25.143,0,0,0-25,25,25.141,25.141,0,0,0,25,25,25.145,25.145,0,0,0,25-25A24.13,24.13,0,0,0,42.623,7.4ZM25.013,41.316A13.637,13.637,0,0,1,11.318,27.622c0-6.305,4.346-10.653,8.042-14.349,2.61-2.61,5-5,5.653-7.827.652,2.61,3.043,5,5.653,7.608,3.7,3.7,8.044,8.046,8.044,14.349a13.966,13.966,0,0,1-13.7,13.913Z" transform="translate(922.985 5918.987)" fill="#105285"/>
+  </g>
+</svg>
